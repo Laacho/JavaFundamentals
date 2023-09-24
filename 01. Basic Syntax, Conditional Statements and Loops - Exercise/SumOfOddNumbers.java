@@ -15,7 +15,7 @@ public class SumOfOddNumbers {
             next+=2;
         }
         System.out.printf("Sum: %d",sum);
-
+        //test
 
 
     }
